@@ -1,4 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//CPRG 211 F Lab 4 - Creating Exceptions
+//Michael (Zi) Liang 000921925
+//Mar 8, 2024
+
+// See https://aka.ms/new-console-template for more information
 
 using CPRG211Lab5;
 
